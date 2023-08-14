@@ -91,7 +91,7 @@ button{
     height: 28px;
     width: 28px;
     border-radius: 50px;
-    background-image: url(/assest/image/unchecked.png);
+    background-image: url(image/unchecked.png);
     background-size: cover;
     background-position: center;
     top: 8px;
@@ -103,7 +103,7 @@ button{
 }
 
 .container .todo ul li.checked::before{
-  background-image: url(/assest/image/checked.png); 
+  background-image: url(image/checked.png); 
   height: 25px;
   width: 25px;
 }
